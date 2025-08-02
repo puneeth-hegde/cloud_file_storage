@@ -122,9 +122,8 @@ cloud_file_storage/
 1. **Login Page**  
 2. **Signup Page**  
 3. **Dashboard (Upload/Download)**  
-![login page](../../../projects/cloud_file_storage/image.png)
-![dashboard](../../../projects/cloud_file_storage/image2.png)
-
+![Login Page](https://raw.githubusercontent.com/puneeth-hegde/cloud-file-storage/main/screenshots/image.png)
+![Dashboard](https://raw.githubusercontent.com/puneeth-hegde/cloud-file-storage/main/screenshots/image1.png)
 ---
 
 ## 🔍 **How It Works**
