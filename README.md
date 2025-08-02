@@ -123,7 +123,7 @@ cloud_file_storage/
 2. **Signup Page**  
 3. **Dashboard (Upload/Download)**  
 ![Login Page](https://github.com/puneeth-hegde/cloud_file_storage/blob/main/image.png)
-![Dashboard](https://github.com/puneeth-hegde/cloud_file_storage/blob/main/image1.png)
+![Dashboard](https://github.com/puneeth-hegde/cloud_file_storage/blob/main/image2.png)
 ---
 
 ## 🔍 **How It Works**
